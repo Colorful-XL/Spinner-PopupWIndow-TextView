@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name = "data_list">
+        <item>全部</item>
+        <item>三年级1班</item>
+        <item>三年级2班</item>
+        <item>三年级3班</item>
+        <item>三年级4班</item>
+    </array>
+</resources>
